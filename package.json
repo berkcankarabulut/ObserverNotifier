@@ -1,0 +1,11 @@
+{
+  "name": "com.berkcankarabulut.observernotifier",
+  "version": "1.0.0",
+  "displayName": "Observer Notifier",
+  "description": "",
+  "author": {
+    "name": "Berkcan Karabulut",
+    "url": "https://github.com/berkcankarabulut"
+  },
+  "dependencies": {}
+}
